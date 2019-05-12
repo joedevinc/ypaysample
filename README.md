@@ -2,7 +2,7 @@
 微信支付宝个人免签收款系统，个人免签约解决方案
 
 ypay个人支付免签系统
-技术栈 python + Vue + Mysql + Redis + Mongodb
+技术栈 Python + Vue + Mysql + Redis + Mongodb
 
 ## 内测版本，推荐测试（目前仅支持微信）
 1. 解决二维码随机立减限制,实时回调收款通知；
