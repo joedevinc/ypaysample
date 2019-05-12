@@ -1,6 +1,5 @@
 # YpaySample
 微信支付宝个人免签收款系统，个人免签约解决方案
-
 ypay个人支付免签系统
 技术栈 Python + Vue + Mysql + Redis + Mongodb
 
@@ -11,4 +10,5 @@ ypay个人支付免签系统
 
 ## 演示
 付款demo：http://ypay.dtfav.com/order/goods_detail.php?gid=1Xg4GU
+  
 获取作者联系方式：http://ypay.dtfav.com/order/goods_detail.php?gid=XR9QRO
