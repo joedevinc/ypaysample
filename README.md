@@ -1,4 +1,4 @@
-# ypaysample
+# YpaySample
 微信支付宝个人免签收款系统，个人免签约解决方案
 
 ypay个人支付免签系统
